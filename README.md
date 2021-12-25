@@ -2,7 +2,7 @@
 
 ## Example Input image
 
-![alt text](https://github.com/saltycorn220/snusbot-docs/blob/main/artifact.png?raw=true)
+<img src="https://github.com/saltycorn220/snusbot-docs/blob/main/artifact.png" alt="drawing" width="300"/>
 
 ## Things to take note
 
